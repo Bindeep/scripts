@@ -14,7 +14,7 @@ Ensure you have Python 3.x installed on your system.
 
 1. **Run the Script**:
     ```bash
-    python folder_comparison_tool.py
+    python compare.py
     ```
 
 2. **Provide Inputs**:
